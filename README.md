@@ -13,8 +13,8 @@ ________________________________________________________________________________
     [函数实现方法限定]：方法A，方法B，方法C，三种实现方法。  
     [数据类型定义限定]：方法1到方法7，七种定义方法。  
     [编程方案]： 17种    A-1，A-2，A-3，A-4，A-5，A-6，A-7,B-3，B-4，B-5，B-6，B-7，C-3，C-4，C-5，C-6，C-7 
-  [A-1](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/1.cpp):定义整型变量<br>
-  [A-2](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/2.cpp):定义结构变量<br>
-  [A-3](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/3.cpp):定义整型数组变量<br>
-  [A-4](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/4.cpp):定义结构数组变量<br>
+  [A-1](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/1.c):定义整型变量<br>
+  [A-2](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/2.c):定义结构变量<br>
+  [A-3](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/3.c):定义整型数组变量<br>
+  [A-4](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/4.c):定义结构数组变量<br>
 
