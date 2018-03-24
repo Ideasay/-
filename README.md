@@ -17,4 +17,6 @@ ________________________________________________________________________________
   [A-2](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/A-2.c):定义结构变量<br>
   [A-3](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/A-3.c):定义整型数组变量<br>
   [A-4](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/A-4.c):定义结构数组变量<br>
-
+  [A-5](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/A-5.c):定义整型指针，分配动态数组<br>
+  [A-6](https://github.com/Ideasay/Computer-Software-Fundation/blob/master/A-6.c):定义结构指针，分配动态数组<br>
+  
