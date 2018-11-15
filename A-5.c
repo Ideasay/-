@@ -1,3 +1,4 @@
+/*动态分配常数数组*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
@@ -13,7 +14,7 @@ int main(){
 	//用来申请四个int类型的动态数组，长度为20个int
 	
 	int i,j,k;
-	int m; 
+	int m = 0; 
 	//用于遍历数组以及存储
 	
 	for(i = 1; i <= 21; i++){
@@ -24,7 +25,7 @@ int main(){
 				n4[m] = i;
 				n6[m] = j;
 				n9[m] = k;
-				printf("n4:%d\t n6:%d\t n9:%d\t cost:%d\n",n4[m],n6[m],n9[m],cost[m]);
+				printf("%2d: 购买4屉%2d个，购买6屉%2d个，购买9屉%2d个，合计总价%2d元\n",m+1,n4[m],n6[m],n9[m],cost[m]);
 				m++;
 			}	
 		}

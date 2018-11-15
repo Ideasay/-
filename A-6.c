@@ -1,3 +1,4 @@
+/*动态分配结构数组*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h>
@@ -28,7 +29,7 @@ int main(){
 				rs[m].n4 = i;
 				rs[m].n6 = j;
 				rs[m].n9 = k;
-				printf("n4:%d\t n6:%d\t n9:%d\t cost:%d\n",rs[m].n4,rs[m].n6,rs[m].n9,rs[m].cost);
+				printf("%2d: 购买4屉%2d个，购买6屉%2d个，购买9屉%2d个，合计总价%2d元\n",m+1,rs[m].n4,rs[m].n6,rs[m].n9,rs[m].cost);
 				m++;
 			}	
 		}
